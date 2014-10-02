@@ -70,7 +70,7 @@
         autodisable: false,
         commandCooldown: 30,
         usercommandsEnabled: true,
-        lockskipPosition: 3,
+        lockskipPosition: 1,
         lockskipReasons: [
             ["theme", "Este vídeo não está de acordo com os temas da sala. "],
             ["op", "Este vídeo está na lista dos mais tocados. "],
@@ -91,12 +91,12 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: "https://www.facebook.com/groups/728059203927832" ,
         youtubeLink: null,
         website: null,
         intervalMessages: [],
         messageInterval: 5,
-        songstats: false,
+        songstats: true,
         commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
