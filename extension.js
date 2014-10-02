@@ -91,7 +91,7 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: "https://www.facebook.com/groups/728059203927832",
+        fbLink: null,
         youtubeLink: null,
         website: null,
         intervalMessages: [],
