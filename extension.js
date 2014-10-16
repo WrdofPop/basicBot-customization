@@ -57,7 +57,7 @@
         language: "portuguese",
         chatLink: "https://rawgit.com/diegodepira/basicBot/master/lang/pt.json",
         maximumAfk: 60,
-        afkRemoval: false,
+        afkRemoval: true,
         maximumDc: 60,
         bouncerPlus: false,
         lockdownEnabled: false,
