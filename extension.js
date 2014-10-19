@@ -53,14 +53,14 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "INÍCIO",
+        botName: "BrasileiríssimosBOT",
         language: "portuguese",
         chatLink: "https://rawgit.com/diegodepira/basicBot/master/lang/pt.json",
         maximumAfk: 60,
-        afkRemoval: true,
+        afkRemoval: false,
         maximumDc: 60,
         bouncerPlus: false,
-        lockdownEnabled: false,
+        lockdownEnabled: true,
         lockGuard: false,
         maximumLocktime: 10,
         cycleGuard: true,
