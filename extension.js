@@ -60,7 +60,7 @@
         afkRemoval: false,
         maximumDc: 60,
         bouncerPlus: false,
-        lockdownEnabled: true,
+        lockdownEnabled: false,
         lockGuard: false,
         maximumLocktime: 10,
         cycleGuard: true,
